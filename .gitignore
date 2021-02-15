@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/enron1/*
+/enron1/ham/*
+/enron1/spam/*
+/models/*
